@@ -31,4 +31,12 @@
   - via CLI
     ![all-student-cli](images/all-student_jtl_optimize.png)
 
+- all-student-name
+    - via intelij profiler
+      ![all-student-profiler-optimize](images/all-student-name_intelijprofiler_optimize.png)
+    - via GUI
+      ![all-student-gui-optimize](images/all-student-name_jmeter_optimize.png)
+    - via CLI
+      ![all-student-cli](images/all-student-name_jtl_optimize.png)
+
 </details>
